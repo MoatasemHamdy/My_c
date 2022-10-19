@@ -1,0 +1,12 @@
+void take_input(int x);
+int add(int x , int y);
+int sub(int x , int y);
+int multi(int x , int y);
+float div(int x , int y);
+int anding(int x , int y);
+int oring(int x , int y);
+int not(int x );
+int Xoring(int x , int y);
+int reminder(int x );
+int incre(int x  );
+int decre(int x  );
